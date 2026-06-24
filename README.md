@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 # azzinoth
@@ -104,4 +103,3 @@ Created backend workflows for document processing, prompt-based automation, and 
 `clean code` · `fast APIs` · `real products` · `no bullshit`
 
 </div>
-```
