@@ -26,7 +26,7 @@ No useless abstractions. No fake complexity. No half-finished work.
 ## Core Stack
 
 ```txt
-Backend       Python, Django, DRF, FastAPI, Node.js, Express.js
+Backend       Python, Django, DRF, FastAPI
 Frontend      React, Next.js, TypeScript, JavaScript, Tailwind CSS
 Databases     PostgreSQL, Redis, MongoDB, Firebase, Supabase
 Infra         Docker, AWS, DigitalOcean, Vercel, GitHub Actions
