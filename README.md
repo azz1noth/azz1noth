@@ -1,4 +1,4 @@
-````md
+
 <div align="center">
 
 # azzinoth
@@ -65,4 +65,3 @@ The goal is to make the product work well.
 `clean systems` · `fast APIs` · `production first`
 
 </div>
-```
